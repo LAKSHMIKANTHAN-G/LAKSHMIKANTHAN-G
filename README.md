@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋 , I'm LAKSHMIKANTHAN G</h1>
-<h3 align="center">A Passionate fullstack developer from India</h3>
+
 <img src="laks.png" >
 <p align="left">
 </p>
