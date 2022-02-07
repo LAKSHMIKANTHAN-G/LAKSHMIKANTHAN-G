@@ -1,6 +1,14 @@
-<video>
+<!DOCTYPE html>
+<html>
+
+
+<video width="320" height="240" controls>
   <source src="Untitled design.mp4" type="video/mp4">
+
 </video>
+
+
+
 
 <p align="left">
 </p>
