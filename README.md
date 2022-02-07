@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋 , I'm LAKSHMIKANTHAN G</h1>
 <h3 align="center">A Passionate fullstack developer from India</h3>
-<img src="LAKSHMIKANTHANG.png" >
+<img src="LAKSHMIKANTHANG.png alt="Trulli" width="500" height="333" >
 <p align="left">
 </p>
 
