@@ -7,9 +7,7 @@
 ​-​ 👯 I’m looking to collaborate on fun projects 
 <br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmikanthan&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmikanthan" /> </p>
 
-</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshmikanthan&show_icons=true&locale=en&layout=compact" alt="lakshmikanthan" /></p>
