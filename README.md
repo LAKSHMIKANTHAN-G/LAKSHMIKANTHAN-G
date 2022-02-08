@@ -1,17 +1,4 @@
-<!DOCTYPE html>
-<html>
 
-hi
-<video width="320" height="240" controls>
-  <source src="Untitled design.mp4" type="video/mp4">
-
-</video>
-
-
-
-
-<p align="left">
-</p>
 <img src="giphy.gif" >
 <img src="full-stack-developer.gif">
 <h3 align="left">Languages and Tools:</h3>
