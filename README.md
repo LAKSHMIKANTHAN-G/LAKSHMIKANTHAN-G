@@ -1,4 +1,4 @@
-
+<img src="laksh1.png" >
 <img src="giphy.gif" >
 <img src="full-stack-developer.gif">
 <h3 align="left">Languages and Tools:</h3>
