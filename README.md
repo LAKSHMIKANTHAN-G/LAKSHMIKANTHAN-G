@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/lakshmikanthan-g-90bba4213/">[LAKSHMIKANTHAN G](https://user-images.githubusercontent.com/84187173/236677459-f48900d2-3ba4-4b0b-b5ff-61620f6b961b.png)</a>
+<a href="https://www.linkedin.com/in/lakshmikanthan-g-90bba4213/"> ! [LAKSHMIKANTHAN G](https://user-images.githubusercontent.com/84187173/236677459-f48900d2-3ba4-4b0b-b5ff-61620f6b961b.png)</a>
 <br>
 
 
