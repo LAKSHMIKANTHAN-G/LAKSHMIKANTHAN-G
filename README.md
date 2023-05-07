@@ -1,5 +1,5 @@
 
-<a href="https://www.linkedin.com/in/lakshmikanthan-g-90bba4213/"> <img src="LAKSHMIKANTHAN.png"></img></a>
+<a href="https://www.linkedin.com/in/lakshmikanthan-g-90bba4213/"> <img src="LAKSHMIKANTHAN.png"> </img> </a>
 
 
 ​-​ 🚀 I’m currently learning Web Development 
