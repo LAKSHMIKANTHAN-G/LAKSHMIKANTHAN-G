@@ -5,7 +5,7 @@
 <br>
 ​-​ 🔭 I’m Interested in project related to web development
 <br>
-​-​ 👯 I’m looking to collaborate on Web Devo projects 
+​-​ 👯 I’m looking to collaborate on Web Devolopment projects 
 <br>
 
 
