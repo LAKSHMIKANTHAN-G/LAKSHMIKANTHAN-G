@@ -9,6 +9,6 @@
 ​-​ 👯 I’m looking to collaborate on Web Devolopment projects 
 <br>
 
-[Portfolio (LK) 👈 ](/)
+[Portfolio (LK) 👈 ]("https://lakshmikanthan-g.github.io/Portfolio/")
 
 
