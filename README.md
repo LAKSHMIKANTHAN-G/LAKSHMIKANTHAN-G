@@ -8,7 +8,5 @@
 <br>
 ​-​ 👯 I’m looking to collaborate on Web Devolopment projects 
 <br>
-
-[Portfolio (LK) 👈 ]("https://lakshmikanthan-g.github.io/Portfolio")
 <p><a href="https://lakshmikanthan-g.github.io/Portfolio/">Portfolio (LK) 👈 </a></p>
 
