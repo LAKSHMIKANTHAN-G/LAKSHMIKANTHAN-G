@@ -10,5 +10,5 @@
 <br>
 
 [Portfolio (LK) 👈 ]("https://lakshmikanthan-g.github.io/Portfolio")
-
+<p><a href="https://lakshmikanthan-g.github.io/Portfolio/">Portfolio (LK) 👈 </a></p>
 
