@@ -5,5 +5,5 @@
 - 🔭 I’m Interested in project related to web development
 <br>
 - 👯 I’m looking to collaborate on Web Development projects
-<br>
+<br>s
 <p><a href="https://lakshmikanthan-g.github.io/Portfolio/" target="_blank">Portfolio (LK) 👈 </a></p>
